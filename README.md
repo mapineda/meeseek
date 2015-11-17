@@ -1,4 +1,4 @@
-##MEeSEEK
+##meSEEK
 
 Inspired by Rick and Morty and their ridiculous antics, I am ridiculousily diving into ReactJS. 
 
@@ -8,3 +8,8 @@ Inspired by Rick and Morty and their ridiculous antics, I am ridiculousily divin
 * CSS Bootstrap
 * ReactJS
 
+## Getting Started
+
+1. Clone the repo
+2. npm install
+3. node server.js
